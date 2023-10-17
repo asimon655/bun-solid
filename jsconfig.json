@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "jsxImportSource": "solid-js/h",
+      "jsxFactory": "h",
+      "paths": {
+        "~/*": [
+          "./src/*"
+        ]
+      }
+    }
+}
